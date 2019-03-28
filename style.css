@@ -3,3 +3,36 @@ body {
     font-family: 'Roboto Mono';
     color: #0F1F35;
 }
+
+
+.header   {
+    background-color: #FAFAD2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#header, .title {
+	color: green;
+
+}
+
+.content {
+	background: #D3D3D3;
+
+}
+
+#content, .ct1 {
+
+	color: red;
+	justify-content: center;
+}
+
+.epilogue {
+	background-color: blue;
+
+}
+
+
